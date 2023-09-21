@@ -4,3 +4,4 @@ stablediff-web/
 *.safetensors
 *.ckpt
 Legacy*Dockerfiles/
+*.txt
