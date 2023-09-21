@@ -1,0 +1,6 @@
+stablediff-webui_FILO_EDIT/
+stablediff-webui/
+stablediff-web/
+*.safetensors
+*.ckpt
+Legacy*Dockerfiles/
